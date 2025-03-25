@@ -21,6 +21,16 @@ Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**
 
 ---
 
+![Renato palestrando 1](img/d-19.jpg)
+
+![Renato palestrando 2](img/d-11.jpg)
+
+![Renato palestrando 3](img/d-24.jpg)
+
+![Público 1](img/d-25.jpg)
+
+![Palestrantes](img/d-32.jpg)
+
 ![Divulgação 1](img/divulgacao-01.jpg)
 
 ![Divulgação 2](img/divulgacao-02.jpg)
