@@ -3,7 +3,7 @@
 
 ---
 
-Título da apresentação: **NET 9, C# 13, ASP.NET Core - Novidades no Desenvolvimento Back-End**
+Título da apresentação: **.NET 9, C# 13, ASP.NET Core - Novidades no Desenvolvimento Back-End**
 
 Data: **11/01/2025 (sábado)**
 
