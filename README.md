@@ -9,7 +9,7 @@ Data: **11/01/2025 (sábado)**
 
 Tecnologias e tópicos abordados: **.NET 9, ASP.NET Core, C# 13, Visual Studio Code, Windows, Linux, OpenAPI, Azure, Docker, Redis...**
 
-Evento: **DEVPIRA Wknd Capivari 2025**
+Evento: **DEVPIRA .NET Wknd 2025**
 
 Número de participantes: **42 pessoas**
 
